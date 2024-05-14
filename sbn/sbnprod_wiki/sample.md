@@ -189,6 +189,12 @@ ICARUS MC
 
 | Sample Description | production push | release version | # Events | Sample type | Samweb definition |   
 | --- | --- | --- | --- | --- | --- |
+| BNB + Intime Cosmics (1d convolution) | MC2024A | v09_87_00 | --- | calibtuple |  prodcorsika_proton_intime_icarus_bnb_sce_1d_drift_on_MC-v09_87_00-042024-cnaf
+| --- | --- | --- | --- | caf |  prodcorsika_proton_intime_icarus_bnb_sce_1d_drift_on_MC-v09_87_00-042024-cnaf
+| --- | --- | --- | --- | flatcaf |  prodcorsika_proton_intime_icarus_bnb_sce_1d_drift_on_MC-v09_87_00-042024-cnaf
+| BNB + Cosmics (1d convolution) | MC2024A | v09_84_00_01 | --- | calibtuple |  mc-v09_84_00_01-202403-cnaf-corrsce
+| --- | --- | --- | --- | caf |  mc-v09_84_00_01-202403-cnaf-corrsce
+| --- | --- | --- | --- | flatcaf |  mc-v09_84_00_01-202403-cnaf-corrsce
 | BNB + Intime Cosmics (2d deconvolution validation) | MC2024A | v09_83_01 | 24851 | calibtuple |  icaruspro_production_v09_83_01_2024A_ICARUS_BNB_Intime_Cosmics_MC_2024_BNB_MC_calibtuple |
 | --- | --- | --- | --- | caf | icaruspro_production_v09_83_01_2024A_ICARUS_BNB_Intime_Cosmics_MC_2024_BNB_MC_caf |
 | --- | --- | --- | --- | flatcaf | icaruspro_production_v09_83_01_2024A_ICARUS_BNB_Intime_Cosmics_MC_2024_BNB_MC_flatcaf |
@@ -418,3 +424,12 @@ ICARUS Reconstructed DATA
 | --- | --- | --- | 333097 | stage1 | IcarusProd_Run1_reprocess_NuMIstream_stage1 |
 | BNB stream | Run 1 reprocessing | v09_37_02_01 | 627484 | stage0 | IcarusProd_Run1_reprocess_BNBstream_stage0	| 
 | --- | --- | --- | 627484 | stage1 | IcarusProd_Run1_reprocess_BNBstream_stage1 |
+| NuMI/BNB off/stream | Run 1 batch 3 | v09_72_00_05p03 | --- | stage1 | run1-v09_72_00_05p03-202311-cnaf
+| ---| --- | --- | --- | caf | run1-v09_72_00_05p03-202311-cnaf
+| BNB stream | Run 2 | v09_72_00_06 | --- | stage1 | run2-v09_72_00_06-202312-cnaf
+| ---| --- | --- | --- | caf | run2-v09_72_00_06-202312-cnaf
+| BNB stream | Run 9435 | v09_84_00_01 | --- | stage1 | run9435-v09_84_00_01-202403-cnaf
+| ---| --- | --- | --- | stage0 | run9435-v09_84_00_01-202403-cnaf
+| ---| --- | --- | --- | caf | run9435-v09_84_00_01-202403-cnaf
+| BNB stream | Run 2 | v09_84_00_01 | --- | stage1 | run2-v09_84_00_01-202403-cnaf
+| ---| --- | --- | --- | caf | run2-v09_84_00_01-202403-cnaf
